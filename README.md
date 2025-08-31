@@ -1,3 +1,4 @@
+
 # Ad Blocker Pro
 
 Ad Blocker Pro is a lightweight, open-source Chrome extension designed to block intrusive ads and improve your browsing experience.  
